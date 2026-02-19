@@ -1,0 +1,298 @@
+Welcome to UMBC Song Player
+500 song files loaded.
+What would you like to do?
+1. Display Song by Title, Artist, and Album
+2. Add Song to Playlist
+3. Display Playlist
+4. Sort Playlist by Spotify Streams
+5. Quit
+1
+Would you rather search by artist or title?
+1. Artist
+2. Title
+0
+Would you rather search by artist or title?
+1. Artist
+2. Title
+3
+Would you rather search by artist or title?
+1. Artist
+2. Title
+1
+Which artist would you like to display?
+billie
+10 Lunch by Billie Eilish from Hit Me Hard And Soft
+15 Blue by Billie Eilish from Hit Me Hard And Soft
+28 Birds Of A Feather by Billie Eilish from Hit Me Hard And Soft
+47 What Was I Made For? [From The Motion Picture "Barbie"] by Billie Eilish from What Was I Made For? (From The Motion Picture "Barbie")
+108 Bad Guy by Billie Eilish from When We All Fall Asleep, Where Do We Go?
+256 Billie Eilish. by Armani White from Billie Eilish.
+269 Happier Than Ever by Billie Eilish from Happier Than Ever
+280 Skinny by Billie Eilish from Hit Me Hard And Soft
+500 Therefore I Am by Billie Eilish from Therefore I Am
+9 songs found.
+What would you like to do?
+1. Display Song by Title, Artist, and Album
+2. Add Song to Playlist
+3. Display Playlist
+4. Sort Playlist by Spotify Streams
+5. Quit
+0
+What would you like to do?
+1. Display Song by Title, Artist, and Album
+2. Add Song to Playlist
+3. Display Playlist
+4. Sort Playlist by Spotify Streams
+5. Quit
+6
+What would you like to do?
+1. Display Song by Title, Artist, and Album
+2. Add Song to Playlist
+3. Display Playlist
+4. Sort Playlist by Spotify Streams
+5. Quit
+1
+Would you rather search by artist or title?
+1. Artist
+2. Title
+2
+Which title would you like to display?
+loved
+89 Someone You Loved by Lewis Capaldi from Breach
+1 songs found.
+What would you like to do?
+1. Display Song by Title, Artist, and Album
+2. Add Song to Playlist
+3. Display Playlist
+4. Sort Playlist by Spotify Streams
+5. Quit
+2
+Choose the song you would like to add to the playlist.
+Would you rather search by artist or title?
+1. Artist
+2. Title
+1
+Which artist would you like to display?
+boone
+6 Beautiful Things by Benson Boone from Beautiful Things
+211 Slow It Down by Benson Boone from Slow It Down
+428 In The Stars by Benson Boone from In The Stars
+3 songs found.
+Enter the number of the song you would like to add:
+6
+Beautiful Things by Benson Boone from Beautiful Things added to the playlist.
+What would you like to do?
+1. Display Song by Title, Artist, and Album
+2. Add Song to Playlist
+3. Display Playlist
+4. Sort Playlist by Spotify Streams
+5. Quit
+2
+Choose the song you would like to add to the playlist.
+Would you rather search by artist or title?
+1. Artist
+2. Title
+2
+Which title would you like to display?
+bad
+44 Me Porto Bonito by Bad Bunny from Un Verano Sin Ti
+108 Bad Guy by Billie Eilish from When We All Fall Asleep, Where Do We Go?
+127 Ojitos Lindos by Bad Bunny from Un Verano Sin Ti
+146 Bad Habit by Steve Lacy from Bad Habit
+175 Where She Goes by Bad Bunny from Where She Goes
+188 Dakiti by Bad Bunny from Dakiti
+197 Moscow Mule by Bad Bunny from Un Verano Sin Ti
+210 Efecto by Bad Bunny from Un Verano Sin Ti
+212 Yonaguni by Bad Bunny from Yonaguni
+311 Chulo Pt.2 by Bad Gyal from Chulopt2
+357 Mia (Feat. Drake) by Bad Bunny from Mia (Feat. Drake)
+359 Down Bad by Taylor Swift from The Tortured Poets Department
+454 Callaita by Bad Bunny from Callaita
+470 Ritmo (Bad Boys For Life) by Black Eyed Peas from Ritmo (Bad Boys For Life)
+477 Un Preview by Bad Bunny from Un Preview
+15 songs found.
+Enter the number of the song you would like to add:
+108
+Bad Guy by Billie Eilish from When We All Fall Asleep, Where Do We Go? added to the playlist.
+What would you like to do?
+1. Display Song by Title, Artist, and Album
+2. Add Song to Playlist
+3. Display Playlist
+4. Sort Playlist by Spotify Streams
+5. Quit
+2
+Choose the song you would like to add to the playlist.
+Would you rather search by artist or title?
+1. Artist
+2. Title
+1
+Which artist would you like to display?
+louis
+No songs found with those criteria.
+What would you like to do?
+1. Display Song by Title, Artist, and Album
+2. Add Song to Playlist
+3. Display Playlist
+4. Sort Playlist by Spotify Streams
+5. Quit
+2
+Choose the song you would like to add to the playlist.
+Would you rather search by artist or title?
+1. Artist
+2. Title
+2
+Which title would you like to display?
+loved
+89 Someone You Loved by Lewis Capaldi from Breach
+1 songs found.
+Enter the number of the song you would like to add:
+89
+Someone You Loved by Lewis Capaldi from Breach added to the playlist.
+What would you like to do?
+1. Display Song by Title, Artist, and Album
+2. Add Song to Playlist
+3. Display Playlist
+4. Sort Playlist by Spotify Streams
+5. Quit
+2
+Choose the song you would like to add to the playlist.
+Would you rather search by artist or title?
+1. Artist
+2. Title
+2
+Which title would you like to display?
+thrills
+413 Cheap Thrills by Sia from Cheap Thrills
+1 songs found.
+Enter the number of the song you would like to add:
+413
+Cheap Thrills by Sia from Cheap Thrills added to the playlist.
+What would you like to do?
+1. Display Song by Title, Artist, and Album
+2. Add Song to Playlist
+3. Display Playlist
+4. Sort Playlist by Spotify Streams
+5. Quit
+3
+1. Beautiful Things by Benson Boone from Beautiful Things
+2. Bad Guy by Billie Eilish from When We All Fall Asleep, Where Do We Go?
+3. Someone You Loved by Lewis Capaldi from Breach
+4. Cheap Thrills by Sia from Cheap Thrills
+What would you like to do?
+1. Display Song by Title, Artist, and Album
+2. Add Song to Playlist
+3. Display Playlist
+4. Sort Playlist by Spotify Streams
+5. Quit
+4
+Done sorting by Spotify streams
+4 items sorted.
+What would you like to do?
+1. Display Song by Title, Artist, and Album
+2. Add Song to Playlist
+3. Display Playlist
+4. Sort Playlist by Spotify Streams
+5. Quit
+3
+1. Someone You Loved by Lewis Capaldi from Breach
+2. Bad Guy by Billie Eilish from When We All Fall Asleep, Where Do We Go?
+3. Cheap Thrills by Sia from Cheap Thrills
+4. Beautiful Things by Benson Boone from Beautiful Things
+What would you like to do?
+1. Display Song by Title, Artist, and Album
+2. Add Song to Playlist
+3. Display Playlist
+4. Sort Playlist by Spotify Streams
+5. Quit
+2
+Choose the song you would like to add to the playlist.
+Would you rather search by artist or title?
+1. Artist
+2. Title
+1
+Which artist would you like to display?
+juice
+100 Lucid Dreams by Juice Wrld from Lucid Dreams
+312 All Girls Are The Same by Juice Wrld from All Girls Are The Same
+407 Godzilla (Feat. Juice Wrld) by Eminem from Music To Be Murdered By
+415 Wishing Well by Juice Wrld from Legends Never Die
+4 songs found.
+Enter the number of the song you would like to add:
+100
+Lucid Dreams by Juice Wrld from Lucid Dreams added to the playlist.
+What would you like to do?
+1. Display Song by Title, Artist, and Album
+2. Add Song to Playlist
+3. Display Playlist
+4. Sort Playlist by Spotify Streams
+5. Quit
+3
+1. Someone You Loved by Lewis Capaldi from Breach
+2. Bad Guy by Billie Eilish from When We All Fall Asleep, Where Do We Go?
+3. Cheap Thrills by Sia from Cheap Thrills
+4. Beautiful Things by Benson Boone from Beautiful Things
+5. Lucid Dreams by Juice Wrld from Lucid Dreams
+What would you like to do?
+1. Display Song by Title, Artist, and Album
+2. Add Song to Playlist
+3. Display Playlist
+4. Sort Playlist by Spotify Streams
+5. Quit
+4
+Done sorting by Spotify streams
+5 items sorted.
+What would you like to do?
+1. Display Song by Title, Artist, and Album
+2. Add Song to Playlist
+3. Display Playlist
+4. Sort Playlist by Spotify Streams
+5. Quit
+3
+1. Someone You Loved by Lewis Capaldi from Breach
+2. Lucid Dreams by Juice Wrld from Lucid Dreams
+3. Bad Guy by Billie Eilish from When We All Fall Asleep, Where Do We Go?
+4. Cheap Thrills by Sia from Cheap Thrills
+5. Beautiful Things by Benson Boone from Beautiful Things
+What would you like to do?
+1. Display Song by Title, Artist, and Album
+2. Add Song to Playlist
+3. Display Playlist
+4. Sort Playlist by Spotify Streams
+5. Quit
+2
+Choose the song you would like to add to the playlist.
+Would you rather search by artist or title?
+1. Artist
+2. Title
+2
+Which title would you like to display?
+loved
+89 Someone You Loved by Lewis Capaldi from Breach
+1 songs found.
+Enter the number of the song you would like to add:
+110
+Eyes Closed by Ed Sheeran from Eyes Closed (Piano Version) added to the playlist.
+What would you like to do?
+1. Display Song by Title, Artist, and Album
+2. Add Song to Playlist
+3. Display Playlist
+4. Sort Playlist by Spotify Streams
+5. Quit
+3
+1. Someone You Loved by Lewis Capaldi from Breach
+2. Lucid Dreams by Juice Wrld from Lucid Dreams
+3. Bad Guy by Billie Eilish from When We All Fall Asleep, Where Do We Go?
+4. Cheap Thrills by Sia from Cheap Thrills
+5. Beautiful Things by Benson Boone from Beautiful Things
+6. Eyes Closed by Ed Sheeran from Eyes Closed (Piano Version)
+What would you like to do?
+1. Display Song by Title, Artist, and Album
+2. Add Song to Playlist
+3. Display Playlist
+4. Sort Playlist by Spotify Streams
+5. Quit
+5
+Thank you for using the UMBC Song Player!
+
+
+
